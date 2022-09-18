@@ -9,7 +9,7 @@ export default function Details() {
             <p className="website">c.okonkwo.website</p>
             <button className="email">
                 <div className="buttonContent">
-                    <img src="../src/assets/email_icon.png"/>
+                    <img src="/src/assets/email_icon.png"/>
                     <a href="mailto:c.okonkwo@sdsd.com">
                         Email
                     </a>
