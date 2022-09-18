@@ -1,5 +1,5 @@
 import React from "react"
-import email_icon from '/src/assets/email_icon.png'
+import email_icon from '/src/assets/email_Icon.png'
 
 export default function Details() {
     return (
