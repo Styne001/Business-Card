@@ -1,8 +1,7 @@
 import React from "react"
 import Twitter_Icon from '/src/assets/Twitter_Icon.png'
 import Facebook_Icon from '/src/assets/Facebook_Icon.png'
-import Instagram_Icon from '/src/assets/Instagram_Icon.png'
-import Linkedin_Icon from '/src/assets/Linkedin_Icon.png'
+import Instagram_Icon from '/src/assets/Linkedin_Icon.png'
 import Github_Icon from '/src/assets/Github_Icon.png'
 
 export default function Footer() {
